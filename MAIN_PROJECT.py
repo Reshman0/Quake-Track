@@ -15,7 +15,7 @@ def main_menu():
     window = tk.Tk()
     window.attributes("-fullscreen", True)
     window.title("EARTHQUAKE REPORTING SYSTEM")  
-    title_label = tk.Label(window, text="QUAKE TRACK", font=("Arial", 35, "bold"), bg="light gray",fg="black")
+    title_label = tk.Label(window, text="QUAKE TRACK", font=("Courier", 35, "bold"), bg="light gray",fg="black")
     title_label.pack(pady=250)
 
     options_frame = tk.Frame(window)
