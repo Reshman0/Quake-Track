@@ -1,19 +1,19 @@
 PROVINCE,DISTRICT,STREET,APARTMENT NAME,HEALTH CONDITION,REPORT STATUS
-Kahramanmaras,Elbistan,(strtname),Gul,Heavily Injured,No Help Yet
-Hatay,Iskenderun,(strtname),Cennet,Injured,No Help Yet
-Gaziantep,Karkamis,(strtname),Nesil,Heavily Injured,No Help Yet
-Malatya,Darende,(strtname),Seref,Injured,No Help Yet
-Diyarbakir,Sur,(strtname),Zafer,Injured,No Help Yet
-Sanliurfa,Harran,(strtname),Dogus,Injured,No Help Yet
-Adiyaman,Golbasi,(strtname),Gunes,No Injuries,No Help Yet
-Osmaniye,Kadirli,(strtname),Sahin,Heavily Injured,No Help Yet
-Adana,Ceyhan,(strtname),Cinar,Heavily Injured,No Help Yet
-Malatya,Arguvan,(strtname),Hayat,Injured,No Help Yet
-Diyarbakir,Bismil,(strtname),Emek,No Injuries,No Help Yet
-Kilis,Mazidagi,(strtname),Huzur,Injured,No Help Yet
-Sanliurfa,Harran,(strtname),Gonul,Heavily Injured,No Help Yet
-Adiyaman,Samsat,(strtname),Gozde,No Injuries,No Help Yet
-Osmaniye,Kadirli,(strtname),Isik,Heavily Injured,No Help Yet
-Adana,Kozan,(strtname),Deniz,Heavily Injured,No Help Yet
-Kahramanmaras,Pazarcik,(strtname),Nazar,Injured,No Help Yet
-Hatay,Dörtyol,(strtname),Gundogan,No Injuries,No Help Yet
+Kahramanmaraş,Elbistan,Lale,Gül,Heavily Injured,NO HELP YET
+Hatay,İskenderun,Karanfil ,Cennet,Injured,NO HELP YET
+Gaziantep,Karkamış,Adalet,Nesil,Heavily Injured,NO HELP YET
+Malatya,Darende,Yıldırım,Şeref,Injured,HELP ARRIVED
+Diyarbakır,Sur,Deniz,Zafer,Injured,NO HELP YET
+Şanlıurfa,Harran,Özgürlük,Doğuş,Injured,NO HELP YET
+Adıyaman,Gölbaşı,Street 659,Güneş,No Injuries,NO HELP YET
+Osmaniye,Kadirli,Uğur,Şahin,Heavily Injured,NO HELP YET
+Adana,Ceyhan,Pınar,Çınar,Heavily Injured,NO HELP YET
+Malatya,Arguvan,İstiklal,Hayat,Injured,NO HELP YET
+Diyarbakır,Bismil,Kavaklık,Emek,No Injuries,NO HELP YET
+Kilis,Mazidağı,Şehitler,Huzur,Injured,NO HELP YET
+Şanlıurfa,Harran,Kepez,Gönül,Heavily Injured,HELP ARRIVED
+Adıyaman,Samsat,Çınarlı,Gözde,No Injuries,HELP ARRIVED
+Osmaniye,Kadirli,Esenler,Işık,Heavily Injured,NO HELP YET
+Adana,Kozan,Sultanahmet,Deniz,Heavily Injured,HELP ARRIVED
+Kahramanmaraş,Pazarcık,Göksu,Nazar,Injured,NO HELP YET
+Hatay,Dörtyol,Şelale,Gündoğan,No Injuries,HELP ARRIVED
