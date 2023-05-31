@@ -2,7 +2,7 @@ PROVINCE,DISTRICT,STREET NAME,APARTMENT NAME,HEALTH CONDITION,REPORT STATUS
 Kahramanmaraş,Elbistan,Lale,Gül,Heavily Injured,NO HELP YET
 Hatay,İskenderun,Karanfil ,Cennet,Injured,NO HELP YET
 Gaziantep,Karkamış,Adalet,Nesil,Heavily Injured,NO HELP YET
-Malatya,Darende,Yıldırım,Şeref,Injured,HELP ARRIVED
+Malatya,Darende,Yıldırım,Şeref,Injured,,NO HELP YET
 Diyarbakır,Sur,Deniz,Zafer,Injured,NO HELP YET
 Şanlıurfa,Harran,Özgürlük,Doğuş,Injured,NO HELP YET
 Adıyaman,Gölbaşı,Street 659,Güneş,No Injuries,NO HELP YET
@@ -11,9 +11,9 @@ Adana,Ceyhan,Pınar,Çınar,Heavily Injured,NO HELP YET
 Malatya,Arguvan,İstiklal,Hayat,Injured,NO HELP YET
 Diyarbakır,Bismil,Kavaklık,Emek,No Injuries,NO HELP YET
 Kilis,Mazidağı,Şehitler,Huzur,Injured,NO HELP YET
-Şanlıurfa,Harran,Kepez,Gönül,Heavily Injured,HELP ARRIVED
-Adıyaman,Samsat,Çınarlı,Gözde,No Injuries,HELP ARRIVED
+Şanlıurfa,Harran,Kepez,Gönül,Heavily Injured,,NO HELP YET
+Adıyaman,Samsat,Çınarlı,Gözde,No Injuries,,NO HELP YET
 Osmaniye,Kadirli,Esenler,Işık,Heavily Injured,NO HELP YET
-Adana,Kozan,Sultanahmet,Deniz,Heavily Injured,HELP ARRIVED
+Adana,Kozan,Sultanahmet,Deniz,Heavily Injured,,NO HELP YET
 Kahramanmaraş,Pazarcık,Göksu,Nazar,Injured,NO HELP YET
-Hatay,Dörtyol,Şelale,Gündoğan,No Injuries,HELP ARRIVED
+Hatay,Dörtyol,Şelale,Gündoğan,No Injuries,,NO HELP YET
