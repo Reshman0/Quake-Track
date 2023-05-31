@@ -2,7 +2,7 @@ PROVINCE,DISTRICT,STREET NAME,APARTMENT NAME,HEALTH CONDITION,REPORT STATUS
 Kahramanmaraş,Elbistan,Lale,Gül,Heavily Injured,NO HELP YET
 Hatay,İskenderun,Karanfil ,Cennet,Injured,NO HELP YET
 Gaziantep,Karkamış,Adalet,Nesil,Heavily Injured,NO HELP YET
-Malatya,Darende,Yıldırım,Şeref,Injured,,NO HELP YET
+Malatya,Darende,Yıldırım,Şeref,Injured,No Injuries,NO HELP YET
 Diyarbakır,Sur,Deniz,Zafer,Injured,NO HELP YET
 Şanlıurfa,Harran,Özgürlük,Doğuş,Injured,NO HELP YET
 Adıyaman,Gölbaşı,Street 659,Güneş,No Injuries,NO HELP YET
