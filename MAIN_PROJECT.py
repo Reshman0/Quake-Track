@@ -511,7 +511,7 @@ def recent_earthquakes():
 #initialize the files
 with open('DebrisReport.csv','w', newline='',encoding='utf-8') as file2:
     debris_data = [
-    ["PROVINCE", "DISTRICT", "STREET", "APARTMENT NAME", "HEALTH CONDITION", "REPORT STATUS"],
+    ["PROVINCE", "DISTRICT", "STREET NAME", "APARTMENT NAME", "HEALTH CONDITION", "REPORT STATUS"],
     ["Kahramanmaraş", "Elbistan", "Lale", "Gül", "Heavily Injured", "NO HELP YET"],
     ["Hatay", "İskenderun", "Karanfil ", "Cennet", "Injured", "NO HELP YET"],
     ["Gaziantep", "Karkamış", "Adalet", "Nesil", "Heavily Injured", "NO HELP YET"],
